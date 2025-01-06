@@ -10,7 +10,6 @@ colored<1.4.3
 langdetect
 cffi
 polyglot
-PyICU
 pycld2
 colorama
 pyyaml
